@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Human-Computer Interfaces"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Music"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6d3f41cb-5902-eec4-4fcb-824a8b0f9835"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Interactive Music Systems",
+  "course_description": "This course explores audio synthesis, musical structure, human computer interaction (HCI), and visual presentation for the creation of interactive musical experiences. Topics include audio synthesis; mixing and looping; MIDI sequencing; generative composition; motion sensors; music games; and graphics for UI, visualization, and aesthetics. Weekly programming assignments in python are included. Student teams build an original, dynamic, and engaging interactive music system for their final project.\n",
+  "department_numbers": [
+    "21M",
+    "6"
+  ],
+  "extra_course_numbers": "6.809,21M.585",
+  "primary_course_number": "21M.385",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Presentation Assignments",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
